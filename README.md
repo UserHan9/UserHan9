@@ -5,4 +5,8 @@
   <div class="kanan">
     HAlloo
   </div>
+
+   <div class="kiri">
+    HAlloo
+  </div>
 </div>
