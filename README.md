@@ -7,6 +7,6 @@
   </div>
 
    <div class="kiri">
-    HAlloo
+    HAlloo</div>
   </div>
 </div>
