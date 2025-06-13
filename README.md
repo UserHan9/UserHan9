@@ -2,6 +2,6 @@
   <h4>HELLO THERE👋</h4>
 
   ===================
-  <h2>UserHan LOVE LINUX AND DRAWING</h2>
+  <h2>IM USING FEDORA BTW 😂</h2>
   ==================
 </div>
