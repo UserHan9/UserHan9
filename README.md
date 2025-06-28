@@ -15,4 +15,4 @@ interest  • graphic programming
           • machine learning
           • game design & asset
 ```
-```haskell
+
