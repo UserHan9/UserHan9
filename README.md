@@ -14,5 +14,5 @@ interest  • graphic programming
           • guitar & daw
           • machine learning
           • game design & asset
-```
+
 ```haskell
