@@ -5,11 +5,21 @@
     </td>
     <td style="vertical-align: top;">
 
-<pre><code>```haskell
+<pre><code>
+```haskell
 developer who loves linux & writing code
 ----------------------------------------
-os        • fedora 42
+os        • fedora 40
 term      • terminator
 shell     • zsh
 wms       • pop shell
-learning  • coding
+interest  • graphic programming
+          • pentesting
+          • website & blockchain
+          • guitar & daw
+          • machine learning
+          • game design & asset
+```
+```haskell
+skills    • fullstack & game programmer
+```
