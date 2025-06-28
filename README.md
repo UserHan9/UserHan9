@@ -1,5 +1,11 @@
-##
-<img align="left" src="https://github.com/ALZEE23.png" width="479" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/ALZEE23.png" width="479">
+    </td>
+    <td>
+
+<pre>
 
 ```haskell
 developer who loves linux & writing code
@@ -14,5 +20,3 @@ interest  • graphic programming
           • guitar & daw
           • machine learning
           • game design & asset
-```
-
