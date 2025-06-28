@@ -7,7 +7,7 @@
 
 <pre>
 
-```haskell
+
 ------------------------------
 os        • windows 11 ltsc 24h2
 term      • wezterm
@@ -29,4 +29,4 @@ repos     • 18 (contributed: 7)
 commits   • 513
 issues    • 12
 stars     • 225
-```
+
