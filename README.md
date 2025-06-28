@@ -1,5 +1,5 @@
 ##
-<img align="left" src="https://github.com/ALZEE23.png" width="317" />
+<img align="left" src="https://github.com/ALZEE23.png" width="300" />
 
 ```haskell
 loves linux & code
@@ -11,7 +11,7 @@ wms       • pop shell
 learning  • coding and life
 ```
 ```haskell
-interest  • android development 
+interest  • android development
 framework • flutter
           • django
           • react
