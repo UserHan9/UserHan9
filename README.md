@@ -2,7 +2,7 @@
 <img align="left" src="https://github.com/ALZEE23.png" width="479" />
 
 ```haskell
-developer who loves linux & writing code
+loves linux & code
 ----------------------------------------
 os        • fedora 42
 term      • kitty
@@ -11,5 +11,9 @@ wms       • pop shell
 learning  • coding and life
 ```
 ```haskell
-YIPEEEEEEE
+interest  • android development 
+framework • flutter
+          • django
+          • react
+          • laravel
 ```
