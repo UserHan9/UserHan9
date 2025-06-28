@@ -4,17 +4,12 @@
 ```haskell
 developer who loves linux & writing code
 ----------------------------------------
-os        • fedora 40
-term      • terminator
+os        • fedora 42
+term      • kitty
 shell     • zsh
 wms       • pop shell
-interest  • graphic programming
-          • pentesting
-          • website & blockchain
-          • guitar & daw
-          • machine learning
-          • game design & asset
+learning  • coding and life
 ```
 ```haskell
-skills    • fullstack & game programmer
+YIPEEEEEEE
 ```
