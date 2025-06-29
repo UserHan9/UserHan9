@@ -2,7 +2,7 @@
 <img align="left" src="https://github.com/UserHan9.png" width="287" />
 
 ```haskell
-loves linux & code
+loves linux
 ----------------------------------------
 os        • fedora 42
 term      • kitty
