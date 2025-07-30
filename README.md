@@ -9,6 +9,7 @@ term      • kitty
 shell     • zsh
 wms       • pop shell
 learning  • coding and life
+ambition  • fullstack dev
 ```
 ```haskell
 interest  • android development and cyber
