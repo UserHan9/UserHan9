@@ -11,7 +11,7 @@ wms       • pop shell
 learning  • coding and life
 ```
 ```haskell
-interest  • android development,cyber and ai
+interest  • mobile development,cyber and ai
 framework • flutter
           • django
           • react
