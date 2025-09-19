@@ -4,7 +4,7 @@
 ```haskell
 love linux
 ----------------------------------------
-os        • arch
+os        • arch linux / windows ghost spectre
 term      • kitty
 shell     • zsh
 wms       • pop shell
