@@ -4,7 +4,7 @@
 ```haskell
 love linux
 ----------------------------------------
-os        • fedora 42
+os        • arch
 term      • kitty
 shell     • zsh
 wms       • pop shell
