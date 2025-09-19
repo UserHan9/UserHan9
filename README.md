@@ -4,7 +4,7 @@
 ```haskell
 loves linux
 ----------------------------------------
-os        • arch linux / windows ghost spectre
+os        • fedora linux / windows ghost spectre
 term      • kitty
 shell     • zsh
 wms       • pop shell
