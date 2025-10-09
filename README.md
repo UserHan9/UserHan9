@@ -2,7 +2,7 @@
 <img align="left" src="https://github.com/UserHan9.png" width="287" />
 
 ```haskell
-This Story Is Just For That One Reader
+Love LINUX
 ----------------------------------------
 os        • fedora linux / windows ghost spectre
 term      • kitty
