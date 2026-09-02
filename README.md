@@ -11,7 +11,7 @@ wms       • pop shell
 learning  • coding and life
 ```
 ```haskell
-interest  • mobile development and data mining
+interest  • mobile,data mining and cyber
 framework • flutter
           • django
           • react
