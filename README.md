@@ -4,16 +4,16 @@
 ```haskell
 Love LINUX
 ----------------------------------------
-os        • Cachy Os
-term      • Alacrity
-shell     • Caelestia
-wms       • Hyperland
-learning  • Coding and Life
+os        • cachy Os
+term      • alacrity
+shell     • caelestia
+wms       • hyperland
+learning  • coding and life
 ```
 ```haskell
-interest  • Mobile,Data Mining and Cyber
-framework • Flutter
-          • Django
-          • React
-          • Laravel
+interest  • mobile,data mining and cyber
+framework • flutter
+          • django
+          • react
+          • laravel
 ```
