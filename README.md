@@ -4,10 +4,10 @@
 ```haskell
 Love LINUX
 ----------------------------------------
-os        • cachy Os
+os        • cachyOs
 term      • alacrity
 shell     • caelestia
-wms       • hyperland
+wm        • hyperland
 learning  • coding and life
 ```
 ```haskell
